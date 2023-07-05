@@ -1,0 +1,2 @@
+{"brand_name":"Hyundai","engine_size":3500,"category":"Mini","km_per_liter":10.5,"min_price":15000,"max_price":190000,"condition":"like a brand new, Dashboard looks good","id":"a6add570-a361-4508-9922-7e0c9887f0b3"}
+{"brand_name":"Hyundai","engine_size":3500,"category":"Mini","km_per_liter":10.5,"min_price":15000,"max_price":190000,"condition":"like a brand new, Dashboard looks good","id":"edef67fc-4546-4a3a-b704-a70c43fd37f6"}
